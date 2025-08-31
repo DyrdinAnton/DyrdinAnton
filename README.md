@@ -1,53 +1,66 @@
-# Привет! 👋 Меня зовут Антон
+# Hi! 👋 I'm Anton Dyrdin
 
-Я начинающий Data Scientist и аналитик данных, увлечённый искусственным интеллектом, машинным обучением и анализом больших данных. 🚀
-
----
-
-## 🛠️ Мои навыки
-
-### Языки и инструменты:
-- 🐍 **Python** (Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn)
-- 💾 **SQL** — анализ и запросы к базам данных
-- 📊 **Анализ данных** — очистка, визуализация, EDA
-- 🤖 **Машинное обучение** — классификация, регрессия, кластеризация
-- 🧠 **Нейросети** — знаком с основами (TensorFlow, Keras, PyTorch)
-- 📈 **Визуализация** — Plotly, Power BI, Tableau (по желанию)
-- ☁️ **Облака** — Google Colab, Kaggle, возможно AWS/GCP
+I'm an aspiring **Data Scientist** and **Data Analyst**, passionate about **Artificial Intelligence, Machine Learning, and Big Data Analysis**. 🚀  
+Currently deepening my skills in Python, SQL, and data visualization — building practical projects to prepare for a career in data science.
 
 ---
 
-## 📂 Мои проекты
+## 🛠️ Skills
+
+### Languages & Tools:
+- 🐍 **Python**: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
+- 💾 **SQL**: Data querying, filtering, aggregation, and analysis
+- 📊 **Data Analysis**: Data cleaning, EDA, feature engineering
+- 🤖 **Machine Learning**: Classification, regression, clustering (Logistic Regression, Random Forest, K-Means)
+- 🧠 **Neural Networks**: Basics of TensorFlow, Keras, and PyTorch
+- 📈 **Visualization**: Plotly, Power BI, Tableau
+- ☁️ **Cloud & Tools**: Google Colab, Kaggle, Jupyter Notebooks
+
+---
+
+## 📂 Projects
 
 ✅ 
 
-👉 Все проекты на GitHub — с кодом, описанием и результатами.
+👉 All projects include clean code, detailed READMEs, visualizations, and real-world insights.
 
 ---
 
-## 🎓 Образование
-- Бакалавр экономики, Липецкий Государственный Технический Университет (2016–2021)
-- Магистр бизнес-информатики, Липецкий Государственный Технический Университет (2023-2026)
-- Школа 21 (2025-
-- Курсы:
-- Stepik: Марафон данных: первое знакомство с SQL и Python (https://stepik.org/course/105359/info)
-- Stepik: Поколение Python: курс для начинающих (https://stepik.org/course/58852/syllabus)
-- Stepik: Интерактивный тренажер по SQL (https://stepik.org/course/63054/info)
-- Stepik: Excel:от новичка до уверенного бизнес-пользователя (https://stepik.org/course/119119/info)
-- Stepik: Microsoft Power BI, Power Query, DAX (https://stepik.org/course/190679/syllabus)
+## 🎓 Education
+
+- **Master's in Business Informatics**  
+  Lipetsk State Technical University | 2023 – 2026
+
+- **Bachelor's in Economics**  
+  Lipetsk State Technical University | 2016 – 2021
+
+- **School 21** (in progress) | 2025 – present  
+  Practical training in programming, algorithms, and system design.
 
 ---
 
-## 📬 Связь со мной
-- 📧 antondyrdin@mail.ru
-- Telegram: @Dyrdin_A
+## 📚 Online Courses
+
+- 📘 [**Stepik: Data Marathon — First Steps with SQL & Python**](https://stepik.org/course/105359/info)  
+- 📘 [**Stepik: "Generation Python" — Beginner's Course**](https://stepik.org/course/58852/syllabus)  
+- 📘 [**Stepik: Interactive SQL Trainer**](https://stepik.org/course/63054/info)  
+- 📘 [**Stepik: Excel — From Beginner to Advanced Business User**](https://stepik.org/course/119119/info)  
+- 📘 [**Stepik: Microsoft Power BI, Power Query, DAX**](https://stepik.org/course/190679/syllabus)
 
 ---
 
-## 📊 Статистика GitHub
-![Stats](https://github-readme-stats.vercel.app/api?username=DyrdinAnton&show_icons=true&theme=dark)
-![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DyrdinAnton&layout=compact&theme=dark)
-![Trophies](https://github-profile-trophy.vercel.app/?username=DyrdinAnton&theme=onedark)
+## 📬 Get in Touch
+
+- 📧 **antondyrdin@mail.ru**
+- 💬 **Telegram**: [@Dyrdin_A](https://t.me/Dyrdin_A)
+
+---
+
+## 📊 GitHub Stats
+
+![Anton's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DyrdinAnton&show_icons=true&theme=dark&locale=en)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DyrdinAnton&layout=compact&theme=dark)
+![Trophies](https://github-profile-trophy.vercel.app/?username=DyrdinAnton&theme=onedark&no-bg=true&margin-w=15)
 
 <!---
 DyrdinAnton/DyrdinAnton is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
